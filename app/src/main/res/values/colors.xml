@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="main_black">#FF000000</color>
+    <color name="semi_black">#413D3D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#313866</color>
+    <color name="purple">#781D42</color>
+    <color name="kuning">#F6E7D8</color>
+    <color name="one">#FFC18E</color>
+    <color name="blue">#525BFF</color>
+    <color name="grey">#979797</color>
+    <color name="abu">#EDEDED</color>
+    <color name="abutua">#a9a9a9</color>
+    <color name="myPrimary">#334AD6</color>
+    <color name="mySecondary">#2E45C6</color>
+    <color name="blulight">#63E9FA</color>
+    <color name="light_purple">#FBCA6C</color>
+    <color name="dark_purple">#979797</color>
+    <color name="main_yellow">#EBC351</color>
+    <color name="main_white">#E3E3E3</color>
+    <color name="main_purple">#9697EE</color>
+    <color name="main_light_purple">#DADEF6</color>
+
+    <color name="pallete_grey_1">#27374D</color>
+    <color name="pallete_grey_2">#526D82</color>
+    <color name="pallete_grey_3">#9DB2BF</color>
+    <color name="pallete_grey_4">#DDE6ED</color>
+    <color name="pallete_grey_5">#F0F0F0</color>
+
+    <color name="pallete_blue_1">#141466</color>
+    <color name="pallete_blue_2">#2929CC</color>
+    <color name="pallete_blue_3">#6677CC</color>
+    <color name="pallete_blue_4">#DADAE6</color>
+</resources>

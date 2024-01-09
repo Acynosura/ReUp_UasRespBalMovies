@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83326776041",
+    "project_id": "respbalmovies",
+    "storage_bucket": "respbalmovies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83326776041:android:6b983c50cbea82657b3678",
+        "android_client_info": {
+          "package_name": "com.example.respbalmovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_mYbD25Xddnb5ZJ-OP3VwErA2Tgfka4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
